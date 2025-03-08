@@ -1,7 +1,8 @@
 {
   "name": "myapp",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
+  "homepage": "https://pravinshahi0007.github.io/vite-test",
   "type": "module",
   "scripts": {
     "dev": "vite",
